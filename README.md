@@ -15,7 +15,7 @@
   ### 3. Usage 
   Run the program using node index.js, answer the questions as they're prompted. This will then generate a separate file.
   ### 4. License
-    Info: (https://opensource.org/licenses/ISC)
+    Info: https://opensource.org/licenses/ISC
   ### 5. Contributors 
   Carlos Hernandez
   ### 6. Tests
