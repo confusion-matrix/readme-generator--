@@ -16,13 +16,13 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch(license) {
     case 'MIT':
-      return "(https://opensource.org/licenses/MIT)";
+      return "https://opensource.org/licenses/MIT";
     case "ISC":
-      return "(https://opensource.org/licenses/ISC)";
+      return "https://opensource.org/licenses/ISC";
     case "IBM":
-      return "(https://opensource.org/licenses/IPL-1.0)";
+      return "https://opensource.org/licenses/IPL-1.0";
     case "GNU":
-      return "(https://www.gnu.org/licenses/gpl-3.0)";
+      return "https://www.gnu.org/licenses/gpl-3.0";
     default:
       return "";
   }
